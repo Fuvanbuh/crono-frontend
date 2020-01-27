@@ -4,7 +4,7 @@
 
 ## Description
 
-Es una app para controlar el tiempo de una manera intuitiva, saber que son 6 segundos es una tarea relaitva.
+Es una app para controlar el tiempo de una manera intuitiva, saber que son 6 segundos es una tarea relativa.
 
 ## User Stories
 
